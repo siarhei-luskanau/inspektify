@@ -53,7 +53,7 @@ konsist = "0.17.3"
 
 # TEST dependencies
 junit = "4.13.2"
-mokkery = "2.3.0"
+mokkery = "2.7.2"
 
 # MAVEN-PUBLISH dependencies
 maven-publish = "0.30.0"
