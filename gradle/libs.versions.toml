@@ -35,7 +35,7 @@ jetbrains-coroutine-test = "1.10.2"
 
 # KTOR dependencies
 ktor3 = "3.1.2"
-ktor2 = "3.1.2"
+ktor2 = "2.3.13"
 
 # KOIN dependencies
 koin = "4.0.1"
