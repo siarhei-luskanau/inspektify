@@ -4,7 +4,7 @@ inspektify-version = "1.0.0-beta09"
 
 # GENERAL dependencies
 agp = "8.4.2"
-kotlin = "2.0.21"
+kotlin = "2.1.20"
 compose-plugin = "1.7.3"
 
 # ANDROID PORJECT dependencies
@@ -13,15 +13,15 @@ android-minSdk = "21"
 android-targetSdk = "34"
 
 # ANDROID-X dependencies
-androidx-activity-compose = "1.9.2"
+androidx-activity-compose = "1.10.1"
 androidx-appcompat = "1.7.0"
-androidx-constraintlayout = "2.1.4"
-androidx-core-ktx = "1.13.1"
+androidx-constraintlayout = "2.2.1"
+androidx-core-ktx = "1.16.0"
 androidx-espresso-core = "3.6.1"
 androidx-material = "1.12.0"
-androidx-startup = "1.1.1"
+androidx-startup = "1.2.0"
 androidx-test-junit = "1.2.1"
-androidx-lifecycle-process = "2.8.6"
+androidx-lifecycle-process = "2.8.7"
 
 # KOTLIN-X dependencies
 kotlinx-datetime = "0.6.2"
@@ -38,7 +38,7 @@ ktor3 = "3.1.2"
 ktor2 = "3.1.2"
 
 # KOIN dependencies
-koin = "4.0.4"
+koin = "4.0.1"
 
 # CASH dependencies
 cash-sqlDelight = "2.0.2"
