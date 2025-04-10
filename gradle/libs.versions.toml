@@ -5,7 +5,7 @@ inspektify-version = "1.0.0-beta09"
 # GENERAL dependencies
 agp = "8.4.2"
 kotlin = "2.0.21"
-compose-plugin = "1.7.0"
+compose-plugin = "1.7.3"
 
 # ANDROID PORJECT dependencies
 android-compileSdk = "34"
