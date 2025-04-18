@@ -48,7 +48,7 @@ swiftklib = "0.6.3"
 
 # CODE ANALYSIS dependencies
 ktlint = "12.1.1"
-detekt = "1.23.6"
+detekt = "1.23.8"
 konsist = "0.16.1"
 
 # TEST dependencies
